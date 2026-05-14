@@ -1,0 +1,7 @@
+.idea/
+.langgraph_api
+__pycache__/
+food-recipe-recommender/resources/personal_chief.db
+food-recipe-recommender/resources/personal_chief.db-shm
+food-recipe-recommender/resources/personal_chief.db-wal
+food-recipe-recommender/.env
