@@ -20,6 +20,7 @@ dependencies = [
     "alibabacloud-oss-v2>=1.2.4",
     "langgraph-checkpoint-sqlite>=3.0.3",
     "langgraph-cli[inmem]>=0.4.26",
+    "notebook>=7.5.6",
 ]
 
 [tool.uv]
